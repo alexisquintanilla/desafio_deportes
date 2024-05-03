@@ -1,1 +1,18 @@
-[{"nombre":"tenis","precio":"6500"},{"nombre":"futbnol","precio":"231312"},{"nombre":"beisbol","precio":"231312"}]
+[
+  {
+    "nombre": "tenis",
+    "precio": "6500"
+  },
+  {
+    "nombre": "futbnol",
+    "precio": "231312"
+  },
+  {
+    "nombre": "beisbol",
+    "precio": "231312"
+  },
+  {
+    "nombre": "cachipun",
+    "precio": "10000"
+  }
+]
