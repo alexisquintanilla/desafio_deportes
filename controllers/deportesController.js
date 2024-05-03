@@ -11,6 +11,7 @@ const getAgregar = async (req, res) => {
         return res.status(400).json({ ok: false, msg: "Todos los campos son obligatorios" })
     }
 
+
     try {
         const data = await readFile(pathFile, 'utf8')
         const deportes = JSON.parse(data)
