@@ -1,18 +1,22 @@
 {
-  "name": "dia-18-prueba",
-  "type": "module",
+  "name": "14-repaso",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "bluuweb",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
