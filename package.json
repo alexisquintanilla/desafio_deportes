@@ -1,5 +1,5 @@
 {
-  "name": "14-repaso",
+  "name": "desafio-deportes",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "bluuweb",
+  "author": "Alexis_Quintanilla",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
